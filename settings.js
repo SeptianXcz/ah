@@ -28,7 +28,7 @@ global.antidelete = false // anti delete
 global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = false
 global.autowelcome = false //auto welcome msg all group
@@ -44,24 +44,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Xyna Botz" //namabot kalian
-global.ownername = "AraBotz" //nama kalian
-global.myweb = "https://youtube.com/@xynabotzreal" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@xynabotzreal" //bebas asal jan hapus
-global.myweb2 = "https://instagram/faelfilaa" //bebas
-global.email = "xynabotz@gmail.com" //bebas
-global.region = "Indonesia" //bebas
+global.botname = "Nezuko" //namabot kalian
+global.ownername = "NatzYakZune" //nama kalian
+global.myweb = "https://youtube.com/@stnr.s" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@stnr.s" //bebas asal jan hapus
+global.myweb2 = "https://instagram/septiannhdnata_" //bebas
+global.email = "septiannhdnata555@gmail.com" //bebas
+global.region = "United states" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285718828566'] //premium user
-global.owner = ["6285718828566", "6285692195658"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285692195658" // nomor wa kalian
-global.ownernomerr = "+62 856-9219-5658" //nmr wa kalian
+global.premium = ['628978613993'] //premium user
+global.owner = ["13523884316", "13523884316"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "13523884316" // nomor wa kalian
+global.ownernomerr = "+1 (352) 388-4316" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'By' //sticker wm ubah
-global.author = 'Xyna Botz' //sticker wm ganti nama kalian
+global.author = 'NezukoBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
